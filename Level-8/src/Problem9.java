@@ -8,7 +8,6 @@ public class Problem9 {
         int[] firstArray = new int[middle];
         int[] secondArray = new int[length - middle];
 
-        // Copy the elements into the first and second arrays
         for (int i = 0; i < middle; i++) {
             firstArray[i] = initialArray[i];
         }

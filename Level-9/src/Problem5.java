@@ -1,5 +1,4 @@
 public class Problem5 {
-    public class CheckWord {
         public static void main(String[] args) {
             String sentence = "This is orange juice";
             String targetWord = "orange";
@@ -22,4 +21,4 @@ public class Problem5 {
         }
     }
     
-}
+

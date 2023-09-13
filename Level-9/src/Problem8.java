@@ -5,7 +5,7 @@ public class Problem8 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter a string: ");
-        String input = scanner.nextLine().toLowerCase(); // Convert to lowercase for case-insensitive counting
+        String input = scanner.nextLine().toLowerCase(); 
 
         int vowels = 0;
         int consonants = 0;
